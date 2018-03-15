@@ -1,0 +1,32 @@
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+  bottom: .1em;
+  right: 25.9em;
+}
+
+.absolute-2 {
+  position: absolute;
+  bottom: -.01em;
+  right: 25.9em;
+}
+
+.absolute-3 {
+  position: absolute;
+  bottom: -1em;
+  right: 1.9em;
+}
+
+.absolute-s {
+  position: absolute;
+  right: 24em;
+}
+
+.absolute-s-2 {
+  position: absolute;
+  right: 26em;
+}
