@@ -1,11 +1,11 @@
 html {
   background-color: #efdecf;
   color: #f88057;
-  font-family: 'EB Garamond', serif;
+  font-family: "EB Garamond", serif;
 }
 
 .amatic {
-  font-family: 'Amatic SC', cursive;
+  font-family: "Amatic SC", cursive;
 }
 
 .color {
@@ -23,8 +23,7 @@ html {
 @media only screen and (min-width: 60em) {
 
   .small {
-    text-transform: uppercase;
-    font-size: 5em;
+    font-size: 8em;
   }
 
 }
