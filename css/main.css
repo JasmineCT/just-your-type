@@ -1,32 +1,13 @@
-
-.relative {
-  position: relative;
+html {
+  background-color: #efdecf;
+  color: #f88057;
+  font-family: 'EB Garamond', serif;
 }
 
-.absolute {
-  position: absolute;
-  bottom: .1em;
-  right: 25.9em;
+.amatic {
+  font-family: 'Amatic SC', cursive;
 }
 
-.absolute-2 {
-  position: absolute;
-  bottom: -.01em;
-  right: 25.9em;
-}
-
-.absolute-3 {
-  position: absolute;
-  bottom: -1em;
-  right: 1.9em;
-}
-
-.absolute-s {
-  position: absolute;
-  right: 24em;
-}
-
-.absolute-s-2 {
-  position: absolute;
-  right: 26em;
+.color {
+  color: #90dad0;
 }
