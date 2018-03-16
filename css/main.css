@@ -11,3 +11,20 @@ html {
 .color {
   color: #90dad0;
 }
+
+@media only screen and (min-width: 38em) {
+
+  .small {
+    font-size: 2em;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .small {
+    text-transform: uppercase;
+    font-size: 5em;
+  }
+
+}
